@@ -1,0 +1,5 @@
+administrator, admin1, admin@uwo.ca, admin123!
+salim, sterzout, sterzout@uwo.ca, 3t3x6c4U!
+dylan, dwett, dwett@uwo.ca, goodstuff!
+Adam Kahloun,akahloun,akahloun@uwo.ca,adam123
+ryan, rklunder, rklunder@uwo.ca, ryan1
