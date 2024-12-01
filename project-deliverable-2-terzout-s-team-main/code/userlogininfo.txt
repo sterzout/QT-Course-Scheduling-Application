@@ -1,0 +1,11 @@
+administrator/admin1/admin@uwo.ca/admin123!//
+salim/sterzout/sterzout@uwo.ca/3t3x6c4U!//
+brian/brian/brian/brian//
+craig/craig/craig/craig/Introduction to Communication,Digital Media/Introduction to Education,Intro to Programming 1
+stef/stef/stef/stef/Introduction to Anthropology,Introduction to Anthropology,Introduction to Astronomy,Introduction to Education,Intro to Programming 1/Introduction to Geography,Introduction to Geography,Introduction to Health Sciences
+clown/clown/clown/clown/Introduction to Anthropology,Introduction to Astronomy,Introduction to Business,Introduction to Communication,Intro to Programming 1/Environmental Health,Water Resources,Introduction to Health Sciences,Data Structures,Computer Architecture
+mrdotr/mrdotr/mrdotr/mrdotr/Introduction to Anthropology,Archaeology,Biological Anthropology,Introduction to Astronomy,Introduction to Communication/Intro to Programming 1,Data Structures,Computer Architecture,Artificial Intelligence,Operating Systems
+topman/topman/topman/topman//
+adam/adam/adam/adam/Intro to Programming 1,Introduction to Communication/Digital Media
+brian/brian/brian/brian//
+travis/travis/travis/travis/Introduction to Astronomy,Marketing,Intro to Programming 1,Algorithms,Introduction to Geography/Introduction to Communication,Introduction to Health Sciences,Data Structures,Operating Systems,Intro to Programming 2
